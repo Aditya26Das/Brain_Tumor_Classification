@@ -1,0 +1,9 @@
+numpy 
+pandas
+matplotlib
+seaborn
+opencv-python
+zipfile36
+scikit-learn
+imutils
+tensorflow
