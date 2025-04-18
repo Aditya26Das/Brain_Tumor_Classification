@@ -7,3 +7,4 @@ zipfile36
 scikit-learn
 imutils
 tensorflow
+streamlit
